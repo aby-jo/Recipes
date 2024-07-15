@@ -9,6 +9,12 @@
     text-align: left;
 }
 .image{
+    display: block;
+    margin: auto;
+    max-height: max-content;
+    max-width: max-content;
+    border: 2px aqua;
+    border-style: solid;
 }
 .fonty{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -20,6 +26,7 @@ p{
     font-size: larger;
     text-align: left;
     background-color: lightgoldenrodyellow;
+    padding: 2px;
 }
 .fonty.main{
 
